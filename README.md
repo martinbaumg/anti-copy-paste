@@ -5,5 +5,7 @@ Le but dans ce repository est donc de créer un script simple en javascript perm
 ## Exemple ici :
 
 ### Ce qui est affiché : 
+![alt text](https://github.com/martinbaumg/anti-copy-paste/img/copy.png)
 
 ### Ce que l'utilisateur collera :
+![alt text](https://github.com/martinbaumg/anti-copy-paste/img/paste.png)
